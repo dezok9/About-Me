@@ -12,6 +12,7 @@ Hi! 👋🏾 I'm Destiny Okonkwo--a Computer Science (CS) and Psychology major a
   <li>Artificial Intelligence (AI)</li>
   <li>Human-Computer Interaction</li> 
   <li>Software Engineering</li> 
+  <li>UI/UX Design</li>
   <li>Data Structures</li>
   <li>Diversity, Equity, and Inclusion (DEI) in CS</li>
   <li>More generally, using CS to solve big scale problems</li>
