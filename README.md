@@ -1,6 +1,6 @@
 # About Me
 
-Hi! 👋🏾 I'm Destiny Okonkwo--a Computer Science (CS) and Psychology major at the University of North Carolina at Chapel Hill. I have many interests both inside and outside of the CS field and am always interesting in exploring new topics! Don't hesitate to reach out; I love having educational disucssions on anything and everything!! 💬
+Hi! 👋🏾 I'm Destiny Okonkwo--a Computer Science (CS) and Psychology major at the University of North Carolina at Chapel Hill. I have many interests both inside and outside of the CS field and am always interesting in exploring new topics! Don't hesitate to reach out; I love having educational discussions on anything and everything!! 💬
 
 👩🏾‍🎓 **The University of North Carolina at Chapel Hill**, Computer Science (B.S.) & Psychology (B.S.), Class of 2026
 
